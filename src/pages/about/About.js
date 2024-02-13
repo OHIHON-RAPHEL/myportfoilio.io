@@ -18,10 +18,10 @@ const About = () => {
         <div className="about__section-content">
           <h1>About Me</h1>
           <p>
-            I am a skilled web designer and a frontend developer over 2 years of experience in the industry.
+            I am a skilled web designer and a frontend developer.
             Expertise to create website Design, Frontend Design, and many more..
             My passion lies in creating captivating website designs and implementing them through frontend development.
-            I take pride in staying up-to date with current design trnds and leveraging my creativity to produce visually apealing and user-frendly website.
+            I take pride in staying up-to date with current design trends and leveraging my creativity to produce visually apealing and user-frendly website.
             through out my career, i have develop a deep understanding of user experience (UX) and user interface (UI) principles.
             By putting my self in the shoes of the end-user, i strive to create intuitive and seamless browsing experiences.
             i believe that a well designed website should not only look visually appeling but also provide a smooth and enjoyable interaction for vistors.
