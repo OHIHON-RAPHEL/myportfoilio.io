@@ -18,10 +18,6 @@ export const links = [
         path: '/about'
     },
     {
-        name: "Gallary",
-        path: '/gallary'
-    },
-    {
         name: "Projects",
         path: '/projects'
     },
@@ -44,7 +40,7 @@ export const services = [
         id: 2,
         icon: <SiInfluxdb/>,
         title: "UX DESIGN",
-        info: "This is the day the lord has made for us all. We will all rejioce in his name",
+        info: "This is the day the lord has made for us all. We will all rejioce in his name cgdgdbjbjdf bdcghdb vhvh",
         path: "/programs/222"
     },
     {

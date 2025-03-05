@@ -14,25 +14,27 @@
     display: none;
 }
 
-/* .nav__container {
+
+
+.nav__container {
     height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
-} */
+}
 
-/* .logo {
+.logo {
     width: 7rem;
     margin-right: auto;
     display: bloc
-} */
+}
 
-/* .nav__links {
+.nav__links {
     display: flex;
     gap: 3.5rem;
     align-items: center;
-} */
+}
 
 .nav__links a {
     transition: var(--transition);
