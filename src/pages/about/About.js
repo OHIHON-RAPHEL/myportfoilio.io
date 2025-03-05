@@ -37,14 +37,12 @@ const About = () => {
         <div className="about__section-content">
           <h1>My Vision</h1>
           <p>
-            ddkl;lkenmcmewklkcwlkcwkwcm
+            To improve more Professionary
           </p>
           <p>
-            dmcwlwlejwllcnwejlkwlkwq/qkc
+            To be able to satisfy user, better interface 
           </p>
-          <p>
-            wwqkjewjeqeeqmoemcncpqnqp;qnnqn
-          </p>
+          
         </div>
         <div className="about__section-image">
           <img src={StoryImage} alt="my Vision Image" />  
