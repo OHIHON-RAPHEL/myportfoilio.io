@@ -82,6 +82,7 @@ const Footer = () => {
       <div className="border-t border-gray-700 mt-20 text-center py-6 text-gray-500 text-xs sm:text-sm">
         <small>2023 RAPH KING &copy; All Rights Reversed</small>
       </div>
+      
     </footer>
   )
 }
